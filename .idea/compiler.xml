@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03_si-primitive-string-injection_javaconfig" />
+        <module name="01-hello-world_xml" />
+        <module name="03_si-collection-injection-list_xml" />
+        <module name="03_ci-collection-injection-map_javaconfig" />
+        <module name="03_ci-object-injection_annotation" />
+        <module name="03_ci-collection-injection-map_xml" />
+        <module name="03_setter-constructor-overriding" />
+        <module name="03_si-object-injection_javaconfig" />
+        <module name="02_bean-scope-prototype_javaconfig" />
+        <module name="02_bean-scope-singleton_annotation" />
+        <module name="02_bean-scope-singleton_javaconfig" />
+        <module name="02_bean-scope-prototype_xml" />
+        <module name="03_si-collection-injection-list_javaconfig" />
+        <module name="03_fi-object-injection_annotation" />
+        <module name="03_si-object-injection_xml" />
+        <module name="03_ci-type-ambiguity-solution-index" />
+        <module name="03_si-collection-injection-set_javaconfig" />
+        <module name="03_si-collection-injection-map_javaconfig" />
+        <module name="02_bean-scope-prototype_annotation" />
+        <module name="03_si-object-injection_annotation" />
+        <module name="03_ci-collection-injection-props_xml" />
+        <module name="03_ci-collection-injection-set_xml" />
+        <module name="03_ci-object-injection_javaconfig" />
+        <module name="03_ci-primitive-string-injection_xml" />
+        <module name="03_ci-type-ambiguity" />
+        <module name="03_ci-collection-injection-props_javaconfig" />
+        <module name="03_si-primitive-string-injection_annotation" />
+        <module name="03_ci-type-ambiguity-solution-type" />
+        <module name="03_ci-collection-injection-list_xml" />
+        <module name="02_bean-scope-singleton_xml" />
+        <module name="03_ci-primitive-string-injection_javaconfig" />
+        <module name="01-hello-world_annotation" />
+        <module name="03_ci-collection-injection-set_javaconfig" />
+        <module name="03_si-collection-injection-map_xml" />
+        <module name="03_si-collection-injection-props_xml" />
+        <module name="03_ci-collection-injection-list_javaconfig" />
+        <module name="01-hello-world_javaconfig" />
+        <module name="03_ci-primitive-string-injection_annotation" />
+        <module name="03_si-collection-injection-props_javaconfig" />
+        <module name="03_si-primitive-string-injection_xml" />
+        <module name="03_ci-object-injection_xml" />
+        <module name="03_ci-type-ambiguity-solution-name" />
+        <module name="03_si-collection-injection-set_xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01-hello-world_annotation" target="1.8" />
+      <module name="01-hello-world_javaconfig" target="1.8" />
+      <module name="01-hello-world_xml" target="1.8" />
+      <module name="01_hello-world_module" target="1.8" />
+      <module name="02_bean-scope-prototype_annotation" target="1.8" />
+      <module name="02_bean-scope-prototype_javaconfig" target="1.8" />
+      <module name="02_bean-scope-prototype_xml" target="1.8" />
+      <module name="02_bean-scope-singleton_annotation" target="1.8" />
+      <module name="02_bean-scope-singleton_javaconfig" target="1.8" />
+      <module name="02_bean-scope-singleton_xml" target="1.8" />
+      <module name="02_bean-scope_module" target="1.8" />
+      <module name="03_ci-collection-injection-list_javaconfig" target="1.8" />
+      <module name="03_ci-collection-injection-list_xml" target="1.8" />
+      <module name="03_ci-collection-injection-map_javaconfig" target="1.8" />
+      <module name="03_ci-collection-injection-map_xml" target="1.8" />
+      <module name="03_ci-collection-injection-props_javaconfig" target="1.8" />
+      <module name="03_ci-collection-injection-props_xml" target="1.8" />
+      <module name="03_ci-collection-injection-set_javaconfig" target="1.8" />
+      <module name="03_ci-collection-injection-set_xml" target="1.8" />
+      <module name="03_ci-object-injection_annotation" target="1.8" />
+      <module name="03_ci-object-injection_javaconfig" target="1.8" />
+      <module name="03_ci-object-injection_xml" target="1.8" />
+      <module name="03_ci-primitive-string-injection_annotation" target="1.8" />
+      <module name="03_ci-primitive-string-injection_javaconfig" target="1.8" />
+      <module name="03_ci-primitive-string-injection_xml" target="1.8" />
+      <module name="03_ci-type-ambiguity" target="1.8" />
+      <module name="03_ci-type-ambiguity-solution-index" target="1.8" />
+      <module name="03_ci-type-ambiguity-solution-name" target="1.8" />
+      <module name="03_ci-type-ambiguity-solution-type" target="1.8" />
+      <module name="03_constructor-injection_module" target="1.8" />
+      <module name="03_dependency-injection_module" target="1.8" />
+      <module name="03_fi-object-injection_annotation" target="1.8" />
+      <module name="03_field-injection_module" target="1.8" />
+      <module name="03_setter-constructor-overriding" target="1.8" />
+      <module name="03_setter-injection_module" target="1.8" />
+      <module name="03_si-collection-injection-list_javaconfig" target="1.8" />
+      <module name="03_si-collection-injection-list_xml" target="1.8" />
+      <module name="03_si-collection-injection-map_javaconfig" target="1.8" />
+      <module name="03_si-collection-injection-map_xml" target="1.8" />
+      <module name="03_si-collection-injection-props_javaconfig" target="1.8" />
+      <module name="03_si-collection-injection-props_xml" target="1.8" />
+      <module name="03_si-collection-injection-set_javaconfig" target="1.8" />
+      <module name="03_si-collection-injection-set_xml" target="1.8" />
+      <module name="03_si-object-injection_annotation" target="1.8" />
+      <module name="03_si-object-injection_javaconfig" target="1.8" />
+      <module name="03_si-object-injection_xml" target="1.8" />
+      <module name="03_si-primitive-string-injection_annotation" target="1.8" />
+      <module name="03_si-primitive-string-injection_javaconfig" target="1.8" />
+      <module name="03_si-primitive-string-injection_xml" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="examples" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
